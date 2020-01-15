@@ -14,7 +14,6 @@ spec:
   template:
     metadata:
       creationTimestamp: null
-      namespace: demo
       labels:
         run: sample-app-nodejs
     spec:
